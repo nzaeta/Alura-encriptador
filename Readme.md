@@ -1,1 +1,3 @@
-Encriptador de texto realizado como desafio en el marco del curso de programación ONE (Oracle-Alura)
+Encriptador de texto realizado como desafío para el curso de programación ONE (Oracle-Alura)
+
+Tecnologías utilizadas: HTML, CSS, JavaScript.
